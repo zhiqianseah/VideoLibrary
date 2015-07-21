@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/myapp4-dev',
+	db: 'mongodb://zhiqian:zhiqian1@ds053688.mongolab.com:53688/videos',
 	app: {
 		title: 'myApp4 - Development Environment'
 	},
